@@ -1,6 +1,3 @@
-import streamlit as st
-from transformers import pipeline, set_seed
-
 def load_generate():
     gen = pipeline('text-generation', model='openai-gpt')
     set_seed(42)
