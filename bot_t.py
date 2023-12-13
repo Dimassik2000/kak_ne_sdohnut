@@ -1,5 +1,3 @@
-pip install transformers
-pip install streamlit
 import streamlit as st
 from transformers import pipeline, set_seed
 
