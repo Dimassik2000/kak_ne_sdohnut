@@ -36,7 +36,6 @@ button_add = st.button('Дополнить текст')
 
 if button_add:
     st.write('**Варианты продолжения текста :**')
-    st.write("Вы не ввели текст")
     if(len(text) > 0): 
         result = generator(text, max_length=len_sequences, num_return_sequences=num_sequences)
         for elem in result:
