@@ -17,7 +17,7 @@ def load_generate():
 
 generator = load_generate()
 
-st.title('Бот для дополнения теста')
+st.title('Бот для дополнения текста')
 text = st.text_area("Место для записи начала текста", height=100)
 
 num_sequences = st.slider(
