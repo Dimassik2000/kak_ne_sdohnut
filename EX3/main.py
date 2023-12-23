@@ -1,7 +1,6 @@
 from fastapi import FastAPI 
 from transformers import pipeline, set_seed
 from pydantic import BaseModel
-pip install httpx
 
 class Item(BaseModel):
     text: str
