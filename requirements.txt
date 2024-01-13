@@ -19,6 +19,7 @@ grpcio==1.59.3
 h11==0.14.0
 h5py==3.10.0
 huggingface-hub==0.19.4
+httpx==0.18.2
 idna==3.6
 keras==2.15.0
 libclang==16.0.6
