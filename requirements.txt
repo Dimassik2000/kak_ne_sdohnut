@@ -53,7 +53,7 @@ termcolor==1.1.0
 tokenizers==0.10.3
 tqdm==4.62.3
 transformers==4.11.3
-typing-extensions==3.10.0.2
+typing-extensions==3.7.4.3
 urllib3==1.26.7
 uvicorn==0.15.0
 Werkzeug==2.0.2
