@@ -25,7 +25,7 @@ keras==2.6.0
 libclang==12.0.0
 Markdown==3.3.4
 MarkupSafe==2.1.0
-ml-dtypes==0.5.0
+ml-dtypes==0.3.2
 numpy==1.21.5
 oauthlib==3.3.2
 opt-einsum==3.3.0
