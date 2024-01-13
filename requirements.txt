@@ -1,5 +1,5 @@
 absl-py==0.15.0
-annotated-types==0.7.0
+annotated-types==0.6.0
 anyio==3.7.1
 astunparse==1.6.4
 cachetools==5.3.0
