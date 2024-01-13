@@ -35,7 +35,7 @@ protobuf==3.19.4
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pydantic==1.9.0
-pydantic-core==1.8.2
+pydantic-core==2.15.0
 PyYAML==6.0
 regex==2021.11.12
 requests==2.26.0
