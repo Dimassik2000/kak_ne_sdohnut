@@ -1,5 +1,5 @@
 import streamlit as st
-from bot import load_generate
+from botgg import load_generate
 
 def test_root():
   app = st.empty()
